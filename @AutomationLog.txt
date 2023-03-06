@@ -1,0 +1,10 @@
+2023-02-07 17:35:58.487 wxauto.py[158] GetSessionList -> Find Control Timeout(10s): {ControlType: ListItemControl}
+2023-02-07 17:52:08.333 wxauto.py[173] Search -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', ControlType: WindowControl}
+2023-02-07 17:52:56.020 wxauto.py[173] Search -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', ControlType: WindowControl}
+2023-02-07 17:55:20.232 wxauto.py[173] Search -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', ControlType: WindowControl}
+2023-02-07 17:55:52.791 wxauto.py[173] Search -> Find Control Timeout(10s): {ClassName: 'WeChatMainWndForPC', ControlType: WindowControl}
+2023-02-07 18:08:01.289 wxauto.py[158] GetSessionList -> Find Control Timeout(10s): {ControlType: ListItemControl}
+2023-02-07 18:08:15.428 wxauto.py[158] GetSessionList -> Find Control Timeout(10s): {ControlType: ListItemControl}
+2023-02-07 18:11:12.090 wxauto.py[265] GetAllMessage -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2023-02-07 18:11:50.172 wxauto.py[265] GetAllMessage -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2023-02-07 18:12:18.863 wxauto.py[265] GetAllMessage -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
